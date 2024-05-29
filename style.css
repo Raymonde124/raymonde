@@ -1,0 +1,19 @@
+/*h1.w{color:red;background-color:black;padding:50px;}
+h1.A{color:blue;font-size:100px;}
+body{background : url(ua.jpg) no-repeat; background-size:100%;}*/
+
+li{list-style-type:none;display: inline-block;}
+a{color: white;text-decoration: none;background-color: black;padding:10px;}
+body{background-color:gray;}
+
+img{ height: 300px;width :300px;border-radius: 10px;}
+footer{background-color:black;color:white;padding:10px;}
+header{background-color:black;}
+#p{color:white;}
+
+#c {background-color:black;}
+#c div{display: inline-block;width:49%;}
+#c div.droite{background-color:blue;}
+#c div.gauche{background-color:pink;}
+
+
